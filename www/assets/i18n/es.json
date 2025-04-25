@@ -215,7 +215,8 @@
     "pipelines": "Configurador de pipelines",
     "registers": "Registros",
     "documents": "Documentos",
-    "settings": "Configuración"
+    "settings": "Configuración",
+    "calendar": "Calendario"
   },
   "CONTACT_DETAILS_INFO": {
     "SAVE_CONTACT": "Guardar Contacto",

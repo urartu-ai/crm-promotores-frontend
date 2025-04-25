@@ -208,7 +208,8 @@
     "pipelines": "Pipelines configurator",
     "registers": "Registers",
     "documents": "Documents",
-    "settings": "Settings"
+    "settings": "Settings",
+    "calendar": "Calendar"
   },
   "CONTACT_DETAILS_INFO": {
     "SAVE_CONTACT": "Save Contact",
