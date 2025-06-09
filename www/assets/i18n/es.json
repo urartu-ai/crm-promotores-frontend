@@ -49,6 +49,7 @@
     "availability": "Disponibilidad",
     "agencies": "Agencias",
     "promoter": "Promotor",
+    "promotion_dashboard": "Pánel de Promoción",
     "file-explorer": "Explorador de Archivos",
     "presentation": "Presentación",
     "users": "Usuarios",
@@ -103,7 +104,14 @@
   "zonas_comunes": "Zonas comunes / Urbanización",
   "finalizacion_obra": "Finalización de obra (certificado final)",
   "licencia_ocupacion": "Licencia de primera ocupación / Cédula de habitabilidad",
-  "entrega_llaves": "Entrega de llaves / Cierre del proyecto"
+  "entrega_llaves": "Entrega de llaves / Cierre del proyecto",
+  "twin_house": "Pareado",
+  "semi_detached": "Adosado",
+    "flat": "Piso / Apartamento",
+    "bungalow": "Bungalow",
+    "basement": "Bajo",
+    "loft": "Loft",
+    "mezzanine": "Entresuelo"
   },
   "promotion_constructionType_texts": {
     "defaultNote": "Seleccione un tipo de promoción para ver detalles.",

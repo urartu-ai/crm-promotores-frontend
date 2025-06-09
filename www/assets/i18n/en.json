@@ -49,6 +49,7 @@
     "availability": "Availability",
     "agencies": "Agencies",
     "promoter": "Promoter",
+    "promotion_dashboard": "Promotion Overview",
     "file-explorer": "File Explorer",
     "presentation": "Presentation",
     "users": "Users",
@@ -103,7 +104,14 @@
   "zonas_comunes": "Common Areas / Urbanization",
   "finalizacion_obra": "Completion of Work (final certificate)",
   "licencia_ocupacion": "First Occupancy License / Certificate of Habitability",
-  "entrega_llaves": "Key Handover / Project Closure"
+  "entrega_llaves": "Key Handover / Project Closure",
+  "twin_house": "Semi-Detached",
+  "flat": "Piso / Apartamento",
+    "semi_detached": "Adosado",
+    "bungalow": "Bungalow",
+    "basement": "Bajo",
+    "loft": "Loft",
+    "mezzanine": "Entresuelo"
   },
   "promotion_constructionType_texts": {
     "promocion-rehabilitacion": "Rehabilitation Promotion",

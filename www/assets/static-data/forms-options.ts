@@ -27,10 +27,6 @@ export const contactFormOptions = {
     ],
     origin: [
         {
-            "value": "",
-            "label": ""
-        },
-        {
             "value": "a_place_in_the_sun",
             "label": "A Place in the Sun"
         },
@@ -153,10 +149,6 @@ export const contactFormOptions = {
         {
             "value": "zoopla",
             "label": "Zoopla"
-        },
-        {
-            "value": "",
-            "label": ""
         }
     ]
     
