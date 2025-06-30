@@ -358,7 +358,7 @@
     "CONTACT_DATA": {
       "TITLE": "Datos de Contacto",
       "PHONE_LABEL": "Teléfono {{ number }}",
-      "PHONE_PLACEHOLDER": "Ingresa el número de teléfono",
+      "PHONE_PLACEHOLDER": "Ingresa el número de teléfono. P. ejemplo +34 612123123",
       "PHONE_REMOVE": "Eliminar teléfono",
       "PHONE_ERROR_REQUIRED": "El número de teléfono es requerido",
       "ADD_PHONE_BUTTON": "Agregar Teléfono",

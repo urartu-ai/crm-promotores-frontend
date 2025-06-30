@@ -353,7 +353,7 @@
     "CONTACT_DATA": {
       "TITLE": "Contact Data",
       "PHONE_LABEL": "Phone {{ number }}",
-      "PHONE_PLACEHOLDER": "Enter phone number",
+      "PHONE_PLACEHOLDER": "Enter the phone number. For example, +34 612123123",
       "PHONE_REMOVE": "Remove phone",
       "PHONE_ERROR_REQUIRED": "Phone number is required",
       "ADD_PHONE_BUTTON": "Add Phone",
